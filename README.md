@@ -5,6 +5,14 @@ Automated Mushroom Picking and Sorting Robot - Swinburne Final Year Robotics Pro
 picking mushrooms. The robot will also incorporate a computer vision system to aid in picking and
 for sorting the mushrooms.
 
+### Contributors
+* Samuel Lastrina
+* Sophie Forsythe
+* Andrew Staunton
+* Will Catchlove
+
+### Poster Presentation
+
 ![alt text](img/poster.png "poster")
 
 ### Gantry
@@ -20,10 +28,3 @@ for sorting the mushrooms.
 [![Demonstration](https://img.youtube.com/vi/TMN4zefdWqg/0.jpg)](https://www.youtube.com/watch?v=TMN4zefdWqg)
   
 [![Demonstration](https://img.youtube.com/vi/3Qe3gsHPmUQ/0.jpg)](https://www.youtube.com/watch?v=3Qe3gsHPmUQ)
-
-
-### Contributors
-* Samuel Lastrina
-* Sophie Forsythe
-* Andrew Staunton
-* Will Catchlove
