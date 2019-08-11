@@ -7,7 +7,7 @@ Automated Mushroom Picking and Sorting Robot - Swinburne Final Year Robotics Pro
 
 #### Software
 ![alt text](img/image_rec1.png "Mushroom recognition")
-![alt text](img/detection1.jpg "Mushroom recognition")
+![alt text](img/Detection1.jpg "Mushroom detection")
 
 
 #### Demonstration Videos
