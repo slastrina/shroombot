@@ -1,9 +1,11 @@
 # Shroombot/Shroomba
 Automated Mushroom Picking and Sorting Robot - Swinburne Final Year Robotics Project 2015
 
+![alt text](img/poster.png "poster")
+
 #### Gantry
-![alt text](img/gantry_final.jpg "Gantry Render")
 ![alt text](img/gantry_render.jpg "Gantry Render")
+![alt text](img/gantry_final.jpg "Gantry Render")
 
 #### Software
 ![alt text](img/image_rec1.png "Mushroom recognition")
